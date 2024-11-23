@@ -1,0 +1,17 @@
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\bin\Debug\net8.0\BookStore.Infraestructure.deps.json
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\bin\Debug\net8.0\BookStore.Infraestructure.runtimeconfig.json
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\bin\Debug\net8.0\BookStore.Infraestructure.dll
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\bin\Debug\net8.0\BookStore.Infraestructure.pdb
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStore.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStore.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStore.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStore.Infraestructure.AssemblyInfo.cs
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStore.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStor.D427EE3E.Up2Date
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStore.Infraestructure.dll
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\refint\BookStore.Infraestructure.dll
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStore.Infraestructure.pdb
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\BookStore.Infraestructure.genruntimeconfig.cache
+C:\Users\Naroly\OneDrive\Documents\Projects\BookStore\BookStore\BookStore\BookStore.Infraestructure\obj\Debug\net8.0\ref\BookStore.Infraestructure.dll
